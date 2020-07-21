@@ -1,0 +1,1 @@
+.\.env\Scripts\python.exe -m PyInstaller -F --clean --i "icon.ico" --log-level INFO --add-data "typeracer/extensions;./extensions" --paths=./typeracer --version-file versionfile.txt ./typeracer/racer.py

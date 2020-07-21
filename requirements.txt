@@ -1,0 +1,4 @@
+selenium
+requests
+https://github.com/pyinstaller/pyinstaller/archive/develop.tar.gz
+git+https://github.com/korn-alex/toolbox.git
